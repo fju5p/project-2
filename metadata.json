@@ -1,0 +1,6 @@
+{
+  "name": "StudyLog - 과목별 공부 시간 측정",
+  "description": "과목별 공부 시간을 측정하고 일별·주별 통계와 목표 달성률을 한눈에 확인하는 고등학생용 공부 타이머 웹 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
